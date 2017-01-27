@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#kaisa-piipari-cover {
+  background-image: url("http://i.imgur.com/LO7TD5e.jpg");
+}
+
+#kaisa-piipari-card{
+   background-image: url("http://i.imgur.com/MqknlcZ.jpg");
+}
+
 #art-rodriguez-cover {
   background-image: url("http://i.imgur.com/EwESaI4.jpg");
 }
